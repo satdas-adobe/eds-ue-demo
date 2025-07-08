@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/satdas-eds-ue/:/",
+    "/content/satdas-eds-ue/configuration:/.helix/config.json",
+    "/content/satdas-eds-ue/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/satdas-eds-ue/"
   ]
 }
